@@ -1,0 +1,57 @@
+.title {
+  color:black;
+}
+
+body{
+  width:1200px;
+  margin:0 auto;
+}
+
+
+.top-wrapper{
+  color:yellowgreen;
+  background-color:gray;
+  border: 3px solid red;
+  margin:10px 0;
+}
+
+.top-title{
+  padding:10px;
+}
+
+.main{
+  margin-bottom:10px;
+}
+
+.places{
+  widows: 1200px;px;
+  padding:5px;
+  margin:0 auto;
+  border: 3px solid orange;
+}
+
+.place{
+  border: 3px solid green;
+  padding:5px;
+  margin:5px;
+  height:400px;
+}
+
+.place-text{
+  height:300px;
+  width:800px;
+  padding-left:20px;
+
+}
+
+.place-photo{
+  float:left;
+  width:400px;
+  padding:10px;
+}
+
+.container{
+  float:left;
+  margin-top:10px;
+  padding:0 15px;
+}
